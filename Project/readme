@@ -4,9 +4,9 @@ This project aims to predict the value of houses in California using machine lea
 Project Structure
 The project is structured as follows:
 
-data/: Contains the California Housing dataset in CSV format.
-src/: Contains the source code for the project.
-results/: Contains the results of running the machine learning models.
+housing.csv/: Contains the California Housing dataset in CSV format.
+ENSF612_CaliforniaHousingPrices.ipynb/: Contains the source code for the project.
+ENSF611_ProjectProposal.pdf/: Contains the proposal for ENSF611 Project.
 Dependencies
 The following dependencies are required to run the code:
 
@@ -19,9 +19,8 @@ Usage
 To use the project, follow these steps:
 
 Clone the repository.
-Navigate to the src/ directory.
-Run the main.py script to train and test the machine learning models.
-The results will be saved in the results/ directory.
+Navigate to the ENSF612_CaliforniaHousingPrices.ipynb.
+Run the  script to train and test the machine learning models.
 Results
 The different machine learning models were trained and tested on the California Housing dataset, and the following results were obtained:
 
